@@ -1,10 +1,8 @@
-# Web Infra Working Group
-
 <div align="center">
   <a href="https://webinfra.org/" target="blank"><img src="https://lf3-static.bytednsdoc.com/obj/eden-cn/zq-uylkvT/ljhwZthlaukjlkulzlp/web-infra-logo.png" width="180" alt="Web Infra Logo" /></a>
 </div>
 
-<h1 align="center">Web Infra</h1>
+<h1 align="center">Web Infra Working Group</h1>
 
 This is the virtual war room of the web infrastructure team responsible for creating Rspack, oxc, modern.js, garfish, rspress, web-doctor, and more.
 
