@@ -33,6 +33,6 @@ Here are the current content available for you to explore:
 
 You can view all our open source repositories at [web-infra-dev/repositories](https://github.com/orgs/web-infra-dev/repositories?sort=stargazers).
 
-## 😊 Code of Conduct
+## 🤝 Code of Conduct
 
 This repo has adopted the ByteDance Open Source Code of Conduct. Please check [Code of Conduct](./CODE_OF_CONDUCT.md) for more details.
