@@ -2,28 +2,28 @@
   <a href="https://webinfra.org/" target="blank"><img src="https://lf3-static.bytednsdoc.com/obj/eden-cn/zq-uylkvT/ljhwZthlaukjlkulzlp/web-infra-logo.png" width="180" alt="Web Infra Logo" /></a>
 </div>
 
-<h1 align="center">Web Infra Working Group</h1>
+<h1 align="center">Web Infra 工作组</h1>
 
-English | [简体中文](./README.zh-CN.md)
+[English](./README.md) | 简体中文
 
-## 👋 Introduction
+## 👋 介绍
 
-This is the working group of the web infrastructure team responsible for creating Rspack, Oxc, Modern.js, Garfish, Rspress, Web Doctor, and more.
+这里是 Web Infra 团队的工作组，我们创建了 Rspack、Oxc、Modern.js、Garfish、Rspress、Web Doctor 等项目。
 
-We created this channel with two purposes:
+我们创建这个频道的目的是：
 
-1. One is to develop everything transparently and build a reliable infrastructure. We will discuss things in public first. This can serve as an RFC (Request for Comments) channel at times.
-2. We will also share some fun things we encounter at work, which can help you if you encounter similar issues or problems.
+1. 透明地开发各个项目，从而构建可信赖的基础设施。我们会优先公开讨论事宜，也会将一些 RFC 发布到这里。
+2. 我们还将分享一些工作中遇到的有趣事物，当你遇到类似问题时，这可能会有所帮助。
 
-## 💬 Discussions
+## 💬 讨论
 
-The working group primarily focuses on blogs and online conversations, which you can access via the [GitHub Discussions](https://github.com/web-infra-dev/wg/discussions).
+你可以通过 [GitHub Discussions](https://github.com/web-infra-dev/wg/discussions) 访问工作组的博客和讨论帖。
 
-Here are the current content available for you to explore:
+以下是目前可以探索的内容：
 
-- [Design Trade-offs in Bundler: The Rationale Behind Creating Rspack](https://github.com/web-infra-dev/wg/discussions/1).
+- [Design Trade-offs in Bundler: The Rationale Behind Creating Rspack](https://github.com/web-infra-dev/wg/discussions/1)。
 
-## 💡 Our projects
+## 💡 项目
 
 |    [Rspack](https://github.com/web-infra-dev/rspack)    |  <a href="https://github.com/web-infra-dev/rspack" target="blank"><img src="https://lf3-static.bytednsdoc.com/obj/eden-cn/zq-uylkvT/ljhwZthlaukjlkulzlp/Rspack-1850.png" width="400" /></a>   |
 | :-----------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -31,8 +31,8 @@ Here are the current content available for you to explore:
 |   [Garfish](https://github.com/web-infra-dev/garfish)   | <a href="https://github.com/web-infra-dev/garfish" target="blank"><img src="https://lf3-static.bytednsdoc.com/obj/eden-cn/zq-uylkvT/ljhwZthlaukjlkulzlp/Garfish-1630.png" width="400" /></a>  |
 |       [Oxc](https://github.com/web-infra-dev/oxc)       |     <a href="https://github.com/web-infra-dev/oxc" target="blank"><img src="https://lf3-static.bytednsdoc.com/obj/eden-cn/zq-uylkvT/ljhwZthlaukjlkulzlp/Oxc-0724.png" width="400" /></a>      |
 
-You can view all our open source repositories at [web-infra-dev/repositories](https://github.com/orgs/web-infra-dev/repositories?sort=stargazers).
+你可以在 [web-infra-dev/repositories](https://github.com/orgs/web-infra-dev/repositories?sort=stargazers) 上查看我们所有的开源仓库。
 
-## 😊 Code of Conduct
+## 😊 行为准则
 
-This repo has adopted the ByteDance Open Source Code of Conduct. Please check [Code of Conduct](./CODE_OF_CONDUCT.md) for more details.
+本仓库采纳了字节跳动的开源项目行为准则。请点击[行为准则](./CODE_OF_CONDUCT.md)查看更多的信息。
