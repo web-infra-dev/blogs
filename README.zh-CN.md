@@ -32,3 +32,7 @@
 |       [Oxc](https://github.com/web-infra-dev/oxc)       |     <a href="https://github.com/web-infra-dev/oxc" target="blank"><img src="https://lf3-static.bytednsdoc.com/obj/eden-cn/zq-uylkvT/ljhwZthlaukjlkulzlp/Oxc-0724.png" width="400" /></a>      |
 
 你可以在 [web-infra-dev/repositories](https://github.com/orgs/web-infra-dev/repositories?sort=stargazers) 上查看我们所有的开源仓库。
+
+## 😊 行为准则
+
+本仓库采纳了字节跳动的开源项目行为准则。请点击[行为准则](./CODE_OF_CONDUCT.md)查看更多的信息。

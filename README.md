@@ -32,3 +32,7 @@ Here are the current content available for you to explore:
 |       [Oxc](https://github.com/web-infra-dev/oxc)       |     <a href="https://github.com/web-infra-dev/oxc" target="blank"><img src="https://lf3-static.bytednsdoc.com/obj/eden-cn/zq-uylkvT/ljhwZthlaukjlkulzlp/Oxc-0724.png" width="400" /></a>      |
 
 You can view all our open source repositories at [web-infra-dev/repositories](https://github.com/orgs/web-infra-dev/repositories?sort=stargazers).
+
+## 😊 Code of Conduct
+
+This repo has adopted the ByteDance Open Source Code of Conduct. Please check [Code of Conduct](./CODE_OF_CONDUCT.md) for more details.
