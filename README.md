@@ -6,6 +6,8 @@
 
 English | [简体中文](./README.zh-CN.md)
 
+## 👋 Introduction
+
 This is the working group of the web infrastructure team responsible for creating Rspack, Oxc, Modern.js, Garfish, Rspress, Web Doctor, and more.
 
 We created this channel with two purposes:
@@ -13,7 +15,7 @@ We created this channel with two purposes:
 1. One is to develop everything transparently and build a reliable infrastructure. We will discuss things in public first. This can serve as an RFC (Request for Comments) channel at times.
 2. We will also share some fun things we encounter at work, which can help you if you encounter similar issues or problems.
 
-## Discussions
+## 💬 Discussions
 
 The working group primarily focuses on blogs and online conversations, which you can access via the [GitHub Discussions](https://github.com/web-infra-dev/wg/discussions).
 
@@ -21,7 +23,7 @@ Here are the current content available for you to explore:
 
 - [Design Trade-offs in Bundler: The Rationale Behind Creating Rspack](https://github.com/web-infra-dev/wg/discussions/1).
 
-## Our projects
+## 💡 Our projects
 
 |    [Rspack](https://github.com/web-infra-dev/rspack)    |  <a href="https://github.com/web-infra-dev/rspack" target="blank"><img src="https://lf3-static.bytednsdoc.com/obj/eden-cn/zq-uylkvT/ljhwZthlaukjlkulzlp/Rspack-1850.png" width="400" /></a>   |
 | :-----------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |

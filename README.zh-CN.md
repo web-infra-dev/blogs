@@ -6,6 +6,8 @@
 
 [English](./README.md) | 简体中文
 
+## 👋 介绍
+
 这里是 Web Infra 团队的工作组，我们创建了 Rspack、Oxc、Modern.js、Garfish、Rspress、Web Doctor 等项目。
 
 我们创建这个频道的目的是：
@@ -13,7 +15,7 @@
 1. 透明地开发各个项目，从而构建可信赖的基础设施。我们会优先公开讨论事宜，也会将一些 RFC 发布到这里。
 2. 我们还将分享一些工作中遇到的有趣事物，当你遇到类似问题时，这可能会有所帮助。
 
-## 讨论
+## 💬 讨论
 
 你可以通过 [GitHub Discussions](https://github.com/web-infra-dev/wg/discussions) 访问工作组的博客和讨论帖。
 
@@ -21,7 +23,7 @@
 
 - [Design Trade-offs in Bundler: The Rationale Behind Creating Rspack](https://github.com/web-infra-dev/wg/discussions/1)。
 
-## 我们的项目
+## 💡 项目
 
 |    [Rspack](https://github.com/web-infra-dev/rspack)    |  <a href="https://github.com/web-infra-dev/rspack" target="blank"><img src="https://lf3-static.bytednsdoc.com/obj/eden-cn/zq-uylkvT/ljhwZthlaukjlkulzlp/Rspack-1850.png" width="400" /></a>   |
 | :-----------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
