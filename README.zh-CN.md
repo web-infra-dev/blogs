@@ -21,7 +21,7 @@
 
 以下是目前可以探索的内容：
 
-- [Bundler 的设计取舍](https://github.com/web-infra-dev/wg/discussions/4)。
+- [Design Trade-offs in Bundler: The Rationale Behind Creating Rspack](https://github.com/web-infra-dev/wg/discussions/1).
 - [Rspress，基于 Rspack 的静态站点生成器](https://github.com/web-infra-dev/wg/discussions/5)。
 
 ## 💡 项目
