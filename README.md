@@ -22,15 +22,16 @@ The working group primarily focuses on blogs and online conversations, which you
 Here are the current content available for you to explore:
 
 - [Design Trade-offs in Bundler: The Rationale Behind Creating Rspack](https://github.com/web-infra-dev/wg/discussions/1).
+- [Rspress, the Rspack-based static site generator](https://github.com/web-infra-dev/wg/discussions/5)。
 
 ## 💡 Our projects
 
-|    [Rspack](https://github.com/web-infra-dev/rspack)    |   <a href="https://github.com/web-infra-dev/rspack" target="blank"><img src="https://lf3-static.bytednsdoc.com/obj/eden-cn/zq-uylkvT/ljhwZthlaukjlkulzlp/Rspack-1850.png" width="400" /></a>   |
-| :-----------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|   [Rspress](https://github.com/web-infra-dev/rspress)   | <a href="https://github.com/web-infra-dev/rspress" target="blank"><img src="https://github.com/web-infra-dev/wg/assets/7237365/afc91f9a-8376-40d4-b415-7594c3af7308" width="400" /></a> |
-| [Modern.js](https://github.com/web-infra-dev/modern.js) | <a href="https://github.com/web-infra-dev/modern.js" target="blank"><img src="https://lf3-static.bytednsdoc.com/obj/eden-cn/zq-uylkvT/ljhwZthlaukjlkulzlp/Modern-0550.png" width="400" /></a>  |
-|   [Garfish](https://github.com/web-infra-dev/garfish)   |  <a href="https://github.com/web-infra-dev/garfish" target="blank"><img src="https://lf3-static.bytednsdoc.com/obj/eden-cn/zq-uylkvT/ljhwZthlaukjlkulzlp/Garfish-1630.png" width="400" /></a>  |
-|       [Oxc](https://github.com/web-infra-dev/oxc)       |      <a href="https://github.com/web-infra-dev/oxc" target="blank"><img src="https://lf3-static.bytednsdoc.com/obj/eden-cn/zq-uylkvT/ljhwZthlaukjlkulzlp/Oxc-0724.png" width="400" /></a>      |
+|    [Rspack](https://github.com/web-infra-dev/rspack)    |  <a href="https://github.com/web-infra-dev/rspack" target="blank"><img src="https://lf3-static.bytednsdoc.com/obj/eden-cn/zq-uylkvT/ljhwZthlaukjlkulzlp/Rspack-1850.png" width="400" /></a>   |
+| :-----------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|   [Rspress](https://github.com/web-infra-dev/rspress)   |    <a href="https://github.com/web-infra-dev/rspress" target="blank"><img src="https://github.com/web-infra-dev/wg/assets/7237365/afc91f9a-8376-40d4-b415-7594c3af7308" width="400" /></a>    |
+| [Modern.js](https://github.com/web-infra-dev/modern.js) | <a href="https://github.com/web-infra-dev/modern.js" target="blank"><img src="https://lf3-static.bytednsdoc.com/obj/eden-cn/zq-uylkvT/ljhwZthlaukjlkulzlp/Modern-0550.png" width="400" /></a> |
+|   [Garfish](https://github.com/web-infra-dev/garfish)   | <a href="https://github.com/web-infra-dev/garfish" target="blank"><img src="https://lf3-static.bytednsdoc.com/obj/eden-cn/zq-uylkvT/ljhwZthlaukjlkulzlp/Garfish-1630.png" width="400" /></a>  |
+|       [Oxc](https://github.com/web-infra-dev/oxc)       |     <a href="https://github.com/web-infra-dev/oxc" target="blank"><img src="https://lf3-static.bytednsdoc.com/obj/eden-cn/zq-uylkvT/ljhwZthlaukjlkulzlp/Oxc-0724.png" width="400" /></a>      |
 
 You can view all our open source repositories at [web-infra-dev/repositories](https://github.com/orgs/web-infra-dev/repositories?sort=stargazers).
 

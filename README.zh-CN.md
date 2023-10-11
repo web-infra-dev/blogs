@@ -21,16 +21,17 @@
 
 以下是目前可以探索的内容：
 
-- [Design Trade-offs in Bundler: The Rationale Behind Creating Rspack](https://github.com/web-infra-dev/wg/discussions/1)。
+- [Design Trade-offs in Bundler: The Rationale Behind Creating Rspack](https://github.com/web-infra-dev/wg/discussions/1).
+- [Rspress，基于 Rspack 的静态站点生成器](https://github.com/web-infra-dev/wg/discussions/5)。
 
 ## 💡 项目
 
-|    [Rspack](https://github.com/web-infra-dev/rspack)    |   <a href="https://github.com/web-infra-dev/rspack" target="blank"><img src="https://lf3-static.bytednsdoc.com/obj/eden-cn/zq-uylkvT/ljhwZthlaukjlkulzlp/Rspack-1850.png" width="400" /></a>   |
-| :-----------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|   [Rspress](https://github.com/web-infra-dev/rspress)   | <a href="https://github.com/web-infra-dev/rspress" target="blank"><img src="https://github.com/web-infra-dev/wg/assets/7237365/f7122b11-7f2b-4c4f-a558-68087db00da0" width="400" /></a> |
-| [Modern.js](https://github.com/web-infra-dev/modern.js) | <a href="https://github.com/web-infra-dev/modern.js" target="blank"><img src="https://lf3-static.bytednsdoc.com/obj/eden-cn/zq-uylkvT/ljhwZthlaukjlkulzlp/Modern-0550.png" width="400" /></a>  |
-|   [Garfish](https://github.com/web-infra-dev/garfish)   |  <a href="https://github.com/web-infra-dev/garfish" target="blank"><img src="https://lf3-static.bytednsdoc.com/obj/eden-cn/zq-uylkvT/ljhwZthlaukjlkulzlp/Garfish-1630.png" width="400" /></a>  |
-|       [Oxc](https://github.com/web-infra-dev/oxc)       |      <a href="https://github.com/web-infra-dev/oxc" target="blank"><img src="https://lf3-static.bytednsdoc.com/obj/eden-cn/zq-uylkvT/ljhwZthlaukjlkulzlp/Oxc-0724.png" width="400" /></a>      |
+|    [Rspack](https://github.com/web-infra-dev/rspack)    |  <a href="https://github.com/web-infra-dev/rspack" target="blank"><img src="https://lf3-static.bytednsdoc.com/obj/eden-cn/zq-uylkvT/ljhwZthlaukjlkulzlp/Rspack-1850.png" width="400" /></a>   |
+| :-----------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|   [Rspress](https://github.com/web-infra-dev/rspress)   |    <a href="https://github.com/web-infra-dev/rspress" target="blank"><img src="https://github.com/web-infra-dev/wg/assets/7237365/f7122b11-7f2b-4c4f-a558-68087db00da0" width="400" /></a>    |
+| [Modern.js](https://github.com/web-infra-dev/modern.js) | <a href="https://github.com/web-infra-dev/modern.js" target="blank"><img src="https://lf3-static.bytednsdoc.com/obj/eden-cn/zq-uylkvT/ljhwZthlaukjlkulzlp/Modern-0550.png" width="400" /></a> |
+|   [Garfish](https://github.com/web-infra-dev/garfish)   | <a href="https://github.com/web-infra-dev/garfish" target="blank"><img src="https://lf3-static.bytednsdoc.com/obj/eden-cn/zq-uylkvT/ljhwZthlaukjlkulzlp/Garfish-1630.png" width="400" /></a>  |
+|       [Oxc](https://github.com/web-infra-dev/oxc)       |     <a href="https://github.com/web-infra-dev/oxc" target="blank"><img src="https://lf3-static.bytednsdoc.com/obj/eden-cn/zq-uylkvT/ljhwZthlaukjlkulzlp/Oxc-0724.png" width="400" /></a>      |
 
 你可以在 [web-infra-dev/repositories](https://github.com/orgs/web-infra-dev/repositories?sort=stargazers) 上查看我们所有的开源仓库。
 
