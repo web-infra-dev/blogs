@@ -2,13 +2,13 @@
   <a href="https://webinfra.org/" target="blank"><img src="https://lf3-static.bytednsdoc.com/obj/eden-cn/zq-uylkvT/ljhwZthlaukjlkulzlp/web-infra-logo.png" width="180" alt="Web Infra Logo" /></a>
 </div>
 
-<h1 align="center">Web Infra 工作组</h1>
+<h1 align="center">Web Infra Blogs</h1>
 
 [English](./README.md) | 简体中文
 
 ## 👋 介绍
 
-这里是 Web Infra 团队的工作组，我们创建了 Rspack、Oxc、Modern.js、Garfish、Rspress、Web Doctor 等项目。
+这里是 Web Infra 团队的 blogs，我们创建了 Rspack、Oxc、Modern.js、Garfish、Rspress、Web Doctor 等项目。
 
 我们创建这个频道的目的是：
 
