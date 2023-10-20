@@ -2,7 +2,7 @@
   <a href="https://webinfra.org/" target="blank"><img src="https://lf3-static.bytednsdoc.com/obj/eden-cn/zq-uylkvT/ljhwZthlaukjlkulzlp/web-infra-logo.png" width="180" alt="Web Infra Logo" /></a>
 </div>
 
-<h1 align="center">Web Infra Working Group</h1>
+<h1 align="center">Web Infra Blogs</h1>
 
 English | [简体中文](./README.zh-CN.md)
 
