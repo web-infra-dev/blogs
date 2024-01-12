@@ -8,7 +8,7 @@ English | [简体中文](./README.zh-CN.md)
 
 ## 👋 Introduction
 
-This is the working group of the web infrastructure team responsible for creating Rspack, Oxc, Modern.js, Garfish, Rspress, Web Doctor, and more.
+This is the working group of the web infrastructure team responsible for creating Rspack, Rsbuild, Rspress, Rsdoctor, Oxc, Modern.js, Garfish, and more.
 
 We created this channel with two purposes:
 
@@ -22,7 +22,9 @@ The working group primarily focuses on blogs and online conversations, which you
 Here are the current content available for you to explore:
 
 - [Design Trade-offs in Bundler: The Rationale Behind Creating Rspack](https://github.com/web-infra-dev/wg/discussions/1).
-- [Rspress, the Rspack-based static site generator](https://github.com/web-infra-dev/wg/discussions/5)。
+- [Rspress, the Rspack-based static site generator](https://github.com/web-infra-dev/wg/discussions/5).
+- [Deep Dive into Top-level await](https://github.com/orgs/web-infra-dev/discussions/9).
+- [Webpack CSS Order Issue](https://github.com/orgs/web-infra-dev/discussions/12).
 
 ## 💡 Our projects
 
@@ -30,9 +32,10 @@ Here are the current content available for you to explore:
 | :-: | :-: |
 | [Rsbuild](https://github.com/web-infra-dev/rsbuild) | <a href="https://github.com/web-infra-dev/rsbuild" target="blank"><img src="https://github.com/web-infra-dev/.github/assets/7237365/a74669c9-3e73-4bad-9ea4-dbe89284849a" width="400" /></a> |
 | [Rspress](https://github.com/web-infra-dev/rspress) | <a href="https://github.com/web-infra-dev/rspress" target="blank"><img src="https://github.com/web-infra-dev/.github/assets/7237365/aa0c19ba-b2c7-4b44-85ab-54c7ef35f914" width="400" /></a> |
-| [Oxc](https://github.com/web-infra-dev/oxc) | <a href="https://github.com/web-infra-dev/oxc" target="blank"><img src="https://lf3-static.bytednsdoc.com/obj/eden-cn/zq-uylkvT/ljhwZthlaukjlkulzlp/Oxc-0724.png" width="400" /></a> |
+|  [Rsdoctor](https://github.com/web-infra-dev/rsdoctor)  | <a href="https://github.com/web-infra-dev/rsdoctor" target="blank"><img src="https://github.com/web-infra-dev/.github/assets/7237365/8131f196-f034-43a1-be8d-38ee7994792e" width="400" /></a> |
 | [Modern.js](https://github.com/web-infra-dev/modern.js) | <a href="https://github.com/web-infra-dev/modern.js" target="blank"><img src="https://lf3-static.bytednsdoc.com/obj/eden-cn/zq-uylkvT/ljhwZthlaukjlkulzlp/Modern-0550.png" width="400" /></a> |
 | [Garfish](https://github.com/web-infra-dev/garfish) | <a href="https://github.com/web-infra-dev/garfish" target="blank"><img src="https://github.com/web-infra-dev/.github/assets/7237365/e95ca47f-d059-47db-831a-be8b248c8710" width="400" /></a> |
+| [Oxc](https://github.com/web-infra-dev/oxc) | <a href="https://github.com/web-infra-dev/oxc" target="blank"><img src="https://lf3-static.bytednsdoc.com/obj/eden-cn/zq-uylkvT/ljhwZthlaukjlkulzlp/Oxc-0724.png" width="400" /></a> |
 
 You can view all our open source repositories at [web-infra-dev/repositories](https://github.com/orgs/web-infra-dev/repositories?sort=stargazers).
 
