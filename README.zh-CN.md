@@ -21,10 +21,10 @@
 
 以下是目前可以探索的内容：
 
-- [Bundler 的设计取舍](https://github.com/orgs/web-infra-dev/discussions/4).
+- [Bundler 的设计取舍](https://github.com/orgs/web-infra-dev/discussions/4)。
 - [Rspress，基于 Rspack 的静态站点生成器](https://github.com/web-infra-dev/wg/discussions/5)。
-- [深入了解 Top-level await](https://github.com/orgs/web-infra-dev/discussions/10).
-- [Webpack CSS 顺序问题](https://github.com/orgs/web-infra-dev/discussions/13).
+- [深入了解 Top-level await](https://github.com/orgs/web-infra-dev/discussions/10)。
+- [Webpack CSS 顺序问题](https://github.com/orgs/web-infra-dev/discussions/13)。
 
 ## 💡 项目
 
