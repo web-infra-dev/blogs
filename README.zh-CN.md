@@ -8,7 +8,7 @@
 
 ## 👋 介绍
 
-这里是 Web Infra 团队的 blogs，我们创建了 Rspack、Oxc、Modern.js、Garfish、Rspress、Web Doctor 等项目。
+这里是 Web Infra 团队的 blogs，我们创建了 Rspack、Rsbuild、Rspress、Rsdoctor、Oxc、Modern.js、Garfish 等项目。
 
 我们创建这个频道的目的是：
 
@@ -21,14 +21,18 @@
 
 以下是目前可以探索的内容：
 
-- [Design Trade-offs in Bundler: The Rationale Behind Creating Rspack](https://github.com/web-infra-dev/wg/discussions/1).
+- [Bundler 的设计取舍](https://github.com/orgs/web-infra-dev/discussions/4).
 - [Rspress，基于 Rspack 的静态站点生成器](https://github.com/web-infra-dev/wg/discussions/5)。
+- [深入了解 Top-level await](https://github.com/orgs/web-infra-dev/discussions/10).
+- [Webpack CSS 顺序问题](https://github.com/orgs/web-infra-dev/discussions/13).
 
 ## 💡 项目
 
 |    [Rspack](https://github.com/web-infra-dev/rspack)    |  <a href="https://github.com/web-infra-dev/rspack" target="blank"><img src="https://lf3-static.bytednsdoc.com/obj/eden-cn/zq-uylkvT/ljhwZthlaukjlkulzlp/Rspack-1850.png" width="400" /></a>   |
 | :-----------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|   [Rsbuild](https://github.com/web-infra-dev/rsbuild)   | <a href="https://github.com/web-infra-dev/rsbuild" target="blank"><img src="https://github.com/web-infra-dev/.github/assets/7237365/a74669c9-3e73-4bad-9ea4-dbe89284849a" width="400" /></a>  |
 |   [Rspress](https://github.com/web-infra-dev/rspress)   |    <a href="https://github.com/web-infra-dev/rspress" target="blank"><img src="https://github.com/web-infra-dev/wg/assets/7237365/f7122b11-7f2b-4c4f-a558-68087db00da0" width="400" /></a>    |
+|  [Rsdoctor](https://github.com/web-infra-dev/rsdoctor)  | <a href="https://github.com/web-infra-dev/rsdoctor" target="blank"><img src="https://github.com/web-infra-dev/.github/assets/7237365/8131f196-f034-43a1-be8d-38ee7994792e" width="400" /></a> |
 | [Modern.js](https://github.com/web-infra-dev/modern.js) | <a href="https://github.com/web-infra-dev/modern.js" target="blank"><img src="https://lf3-static.bytednsdoc.com/obj/eden-cn/zq-uylkvT/ljhwZthlaukjlkulzlp/Modern-0550.png" width="400" /></a> |
 |   [Garfish](https://github.com/web-infra-dev/garfish)   | <a href="https://github.com/web-infra-dev/garfish" target="blank"><img src="https://lf3-static.bytednsdoc.com/obj/eden-cn/zq-uylkvT/ljhwZthlaukjlkulzlp/Garfish-1630.png" width="400" /></a>  |
 |       [Oxc](https://github.com/web-infra-dev/oxc)       |     <a href="https://github.com/web-infra-dev/oxc" target="blank"><img src="https://lf3-static.bytednsdoc.com/obj/eden-cn/zq-uylkvT/ljhwZthlaukjlkulzlp/Oxc-0724.png" width="400" /></a>      |
