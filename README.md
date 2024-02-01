@@ -21,10 +21,11 @@ The working group primarily focuses on blogs and online conversations, which you
 
 Here are the current content available for you to explore:
 
-- [Design Trade-offs in Bundler: The Rationale Behind Creating Rspack](https://github.com/web-infra-dev/wg/discussions/1).
-- [Rspress, the Rspack-based static site generator](https://github.com/web-infra-dev/wg/discussions/5).
-- [Deep Dive into Top-level await](https://github.com/orgs/web-infra-dev/discussions/9).
-- [Webpack CSS Order Issue](https://github.com/orgs/web-infra-dev/discussions/12).
+- [Design Trade-offs in Bundler: The Rationale Behind Creating Rspack](https://github.com/web-infra-dev/wg/discussions/1)
+- [Rspress, the Rspack-based static site generator](https://github.com/web-infra-dev/wg/discussions/5)
+- [Deep Dive into Top-level await](https://github.com/orgs/web-infra-dev/discussions/9)
+- [Webpack CSS Order Issue](https://github.com/orgs/web-infra-dev/discussions/12)
+- [Webpack Chunk Graph Algorithm](https://github.com/orgs/web-infra-dev/discussions/15)
 
 ## 💡 Our projects
 
