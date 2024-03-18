@@ -36,7 +36,6 @@ Here are the current content available for you to explore:
 |  [Rsdoctor](https://github.com/web-infra-dev/rsdoctor)  | <a href="https://github.com/web-infra-dev/rsdoctor" target="blank"><img src="https://github.com/web-infra-dev/.github/assets/7237365/8131f196-f034-43a1-be8d-38ee7994792e" width="400" /></a> |
 | [Modern.js](https://github.com/web-infra-dev/modern.js) | <a href="https://github.com/web-infra-dev/modern.js" target="blank"><img src="https://github.com/web-infra-dev/blogs/assets/7237365/566a8804-dd77-431a-ba6e-dd8397bf36e0" width="400" /></a> |
 | [Garfish](https://github.com/web-infra-dev/garfish) | <a href="https://github.com/web-infra-dev/garfish" target="blank"><img src="https://github.com/web-infra-dev/.github/assets/7237365/e95ca47f-d059-47db-831a-be8b248c8710" width="400" /></a> |
-| [Oxc](https://github.com/web-infra-dev/oxc) | <a href="https://github.com/web-infra-dev/oxc" target="blank"><img src="https://github.com/web-infra-dev/blogs/assets/7237365/f6b2aca3-a07b-4c7c-9d15-6226f77174f3" width="400" /></a> |
 
 You can view all our open source repositories at [web-infra-dev/repositories](https://github.com/orgs/web-infra-dev/repositories?sort=stargazers).
 
