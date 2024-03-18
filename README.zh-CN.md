@@ -8,7 +8,7 @@
 
 ## 👋 介绍
 
-这里是 Web Infra 团队的 blogs，我们创建了 Rspack、Rsbuild、Rspress、Rsdoctor、Oxc、Modern.js、Garfish 等项目。
+这里是 Web Infra 团队的 blogs，我们创建了 Rspack、Rsbuild、Rspress、Rsdoctor、Modern.js、Garfish 等项目。
 
 我们创建这个频道的目的是：
 

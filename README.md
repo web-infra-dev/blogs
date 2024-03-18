@@ -8,7 +8,7 @@ English | [简体中文](./README.zh-CN.md)
 
 ## 👋 Introduction
 
-This is the working group of the web infrastructure team responsible for creating Rspack, Rsbuild, Rspress, Rsdoctor, Oxc, Modern.js, Garfish, and more.
+This is the working group of the web infrastructure team responsible for creating Rspack, Rsbuild, Rspress, Rsdoctor, Modern.js, Garfish, and more.
 
 We created this channel with two purposes:
 
