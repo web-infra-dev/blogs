@@ -26,6 +26,7 @@ Here are the current content available for you to explore:
 - [Deep Dive into Top-level await](https://github.com/orgs/web-infra-dev/discussions/9)
 - [Webpack CSS Order Issue](https://github.com/orgs/web-infra-dev/discussions/12)
 - [Webpack Chunk Graph Algorithm](https://github.com/orgs/web-infra-dev/discussions/15)
+- [Deep Dive into Rspack & Webpack Tree Shaking](https://github.com/orgs/web-infra-dev/discussions/17)
 
 ## 💡 Our projects
 

@@ -26,6 +26,7 @@
 - [深入了解 Top-level await](https://github.com/orgs/web-infra-dev/discussions/10)
 - [Webpack CSS 顺序问题](https://github.com/orgs/web-infra-dev/discussions/13)
 - [Webpack Chunk Graph 策略](https://github.com/orgs/web-infra-dev/discussions/16)
+- [Deep Dive into Rspack & Webpack Tree Shaking](https://github.com/orgs/web-infra-dev/discussions/17)
 
 ## 💡 项目
 
