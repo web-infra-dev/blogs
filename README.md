@@ -37,7 +37,7 @@ Here are the current content available for you to explore:
 | [Rspress](https://github.com/web-infra-dev/rspress) | <a href="https://github.com/web-infra-dev/rspress" target="blank"><img src="https://github.com/web-infra-dev/.github/assets/7237365/aa0c19ba-b2c7-4b44-85ab-54c7ef35f914" width="400" /></a> |
 |  [Rsdoctor](https://github.com/web-infra-dev/rsdoctor)  | <a href="https://github.com/web-infra-dev/rsdoctor" target="blank"><img src="https://github.com/web-infra-dev/.github/assets/7237365/8131f196-f034-43a1-be8d-38ee7994792e" width="400" /></a> |
 |  [Rslib](https://github.com/web-infra-dev/rslib)  | <a href="https://github.com/web-infra-dev/rslib" target="blank"><img src="https://github.com/user-attachments/assets/198162b1-c337-4677-938e-61e9e5d8a682" width="400" /></a> |
-| [Midscene.js](https://github.com/web-infra-dev/midscene) | <a href="https://github.com/web-infra-dev/midscene" target="blank"><img src="https://github.com/user-attachments/assets/aa20b74d-c878-4757-985b-9d8630ee3051" width="400" /></a> |
+| [Midscene.js](https://github.com/web-infra-dev/midscene) | <a href="https://github.com/web-infra-dev/midscene" target="blank"><img src="https://github.com/user-attachments/assets/a68d4010-70a1-4255-a712-27f55005c6dc" width="400" /></a> |
 | [Modern.js](https://github.com/web-infra-dev/modern.js) | <a href="https://github.com/web-infra-dev/modern.js" target="blank"><img src="https://github.com/web-infra-dev/blogs/assets/7237365/566a8804-dd77-431a-ba6e-dd8397bf36e0" width="400" /></a> |
 | [Garfish](https://github.com/web-infra-dev/garfish) | <a href="https://github.com/web-infra-dev/garfish" target="blank"><img src="https://github.com/web-infra-dev/.github/assets/7237365/e95ca47f-d059-47db-831a-be8b248c8710" width="400" /></a> |
 
