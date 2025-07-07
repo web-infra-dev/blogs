@@ -21,13 +21,16 @@ The working group primarily focuses on blogs and online conversations, which you
 
 Here are the current content available for you to explore:
 
-- [Design Trade-offs in Bundler: The Rationale Behind Creating Rspack](https://github.com/web-infra-dev/wg/discussions/1)
-- [Rspress, the Rspack-based static site generator](https://github.com/web-infra-dev/wg/discussions/5)
-- [Deep Dive into Top-level await](https://github.com/orgs/web-infra-dev/discussions/9)
-- [Webpack CSS Order Issue](https://github.com/orgs/web-infra-dev/discussions/12)
-- [Webpack Chunk Graph Algorithm](https://github.com/orgs/web-infra-dev/discussions/15)
-- [Deep Dive into Rspack & Webpack Tree Shaking](https://github.com/orgs/web-infra-dev/discussions/17)
-- [Rspack brainstorm meeting notes (2024-07) ](https://github.com/web-infra-dev/rspack/discussions/7405)
+- [2023-08] [Design Trade-offs in Bundler: The Rationale Behind Creating Rspack](https://github.com/web-infra-dev/wg/discussions/1)
+- [2023-10] [Deep Dive into Top-level await](https://github.com/orgs/web-infra-dev/discussions/9)
+- [2023-11] [Rspress, the Rspack-based static site generator](https://github.com/web-infra-dev/wg/discussions/5)
+- [2023-11] [Webpack CSS Order Issue](https://github.com/orgs/web-infra-dev/discussions/12)
+- [2024-01] [Webpack Chunk Graph Algorithm](https://github.com/orgs/web-infra-dev/discussions/15)
+- [2024-04] [Deep Dive into Rspack & Webpack Tree Shaking](https://github.com/orgs/web-infra-dev/discussions/17)
+- [2024-07] [Rspack brainstorm meeting notes](https://github.com/web-infra-dev/rspack/discussions/7405)
+- [2025-01] [Build systems and bundlers](https://github.com/orgs/web-infra-dev/discussions/24)
+- [2025-01] [RSC and Server Action bundle practice](https://github.com/orgs/web-infra-dev/discussions/23)
+- [2025-07] [How to embed a HashMap with lots of strings in program](https://github.com/orgs/web-infra-dev/discussions/27)
 
 ## 💡 Our projects
 

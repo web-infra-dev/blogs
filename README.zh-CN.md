@@ -21,13 +21,16 @@
 
 以下是目前可以探索的内容：
 
-- [Bundler 的设计取舍](https://github.com/orgs/web-infra-dev/discussions/4)
-- [Rspress，基于 Rspack 的静态站点生成器](https://github.com/web-infra-dev/wg/discussions/5)
-- [深入了解 Top-level await](https://github.com/orgs/web-infra-dev/discussions/10)
-- [Webpack CSS 顺序问题](https://github.com/orgs/web-infra-dev/discussions/13)
-- [Webpack Chunk Graph 策略](https://github.com/orgs/web-infra-dev/discussions/16)
-- [Deep Dive into Rspack & Webpack Tree Shaking](https://github.com/orgs/web-infra-dev/discussions/17)
-- [Rspack brainstorm meeting notes (2024-07) ](https://github.com/web-infra-dev/rspack/discussions/7405)
+- [2023-08] [Bundler 的设计取舍](https://github.com/orgs/web-infra-dev/discussions/4)
+- [2023-10] [深入了解 Top-level await](https://github.com/orgs/web-infra-dev/discussions/10)
+- [2023-11] [Rspress，基于 Rspack 的静态站点生成器](https://github.com/web-infra-dev/wg/discussions/5)
+- [2023-11] [Webpack CSS 顺序问题](https://github.com/orgs/web-infra-dev/discussions/13)
+- [2024-01] [Webpack Chunk Graph 策略](https://github.com/orgs/web-infra-dev/discussions/16)
+- [2024-04] [Deep Dive into Rspack & Webpack Tree Shaking](https://github.com/orgs/web-infra-dev/discussions/17)
+- [2024-07] [Rspack brainstorm meeting notes](https://github.com/web-infra-dev/rspack/discussions/7405)
+- [2025-01] [构建系统和打包工具](https://github.com/orgs/web-infra-dev/discussions/22)
+- [2025-01] [RSC 和 Server Action 构建实践](https://github.com/orgs/web-infra-dev/discussions/21)
+- [2025-07] [如何在程序中嵌入有大量字符串的 HashMap](https://github.com/orgs/web-infra-dev/discussions/26)
 
 ## 💡 项目
 
