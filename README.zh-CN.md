@@ -8,7 +8,7 @@
 
 ## 👋 介绍
 
-这里是字节跳动 Web Infra 团队的 blogs，我们开源了 Rspack、Rsbuild、Rspress、Rsdoctor、Rstest、Midscene、Modern.js、Garfish 等项目。
+这里是字节跳动 Web Infra 团队的博客，我们开源了 [Rspack](https://github.com/web-infra-dev/rspack)、[Rsbuild](https://github.com/web-infra-dev/rsbuild)、[Rspress](https://github.com/web-infra-dev/rspress)、[Rsdoctor](https://github.com/web-infra-dev/rsdoctor)、[Rstest](https://github.com/web-infra-dev/rstest)、[Midscene](https://github.com/web-infra-dev/midscene)、[Modern.js](https://github.com/web-infra-dev/modern.js)、[Garfish](https://github.com/web-infra-dev/garfish) 等项目。
 
 我们创建这个频道的目的是：
 
