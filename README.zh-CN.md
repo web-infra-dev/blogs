@@ -33,6 +33,7 @@
 | 2025-01 | [构建系统和打包工具](https://github.com/orgs/web-infra-dev/discussions/22)                           |
 | 2025-01 | [RSC 和 Server Action 构建实践](https://github.com/orgs/web-infra-dev/discussions/21)                |
 | 2025-07 | [如何在程序中嵌入有大量字符串的 HashMap](https://github.com/orgs/web-infra-dev/discussions/26)       |
+| 2025-08 | [Bundler Tree Shaking 原理及差异](https://github.com/orgs/web-infra-dev/discussions/28)              |
 
 ## 💡 项目
 

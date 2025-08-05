@@ -33,6 +33,7 @@ Here are the current content available for you to explore:
 | 2025-01 | [Build systems and bundlers](https://github.com/orgs/web-infra-dev/discussions/24)                                      |
 | 2025-01 | [RSC and Server Action bundle practice](https://github.com/orgs/web-infra-dev/discussions/23)                           |
 | 2025-07 | [How to embed a HashMap with lots of strings in program](https://github.com/orgs/web-infra-dev/discussions/27)          |
+| 2025-08 | [Bundler Tree Shaking Principles and Differences](https://github.com/orgs/web-infra-dev/discussions/29)                 |
 
 ## 💡 Our projects
 
