@@ -8,7 +8,7 @@ English | [简体中文](./README.zh-CN.md)
 
 ## 👋 Introduction
 
-This is the working group of the ByteDance web infrastructure team responsible for creating [Rspack](https://github.com/web-infra-dev/rspack), [Rsbuild](https://github.com/web-infra-dev/rsbuild), [Rspress](https://github.com/web-infra-dev/rspress), [Rsdoctor](https://github.com/web-infra-dev/rsdoctor), [Rstest](https://github.com/web-infra-dev/rstest), [Midscene](https://github.com/web-infra-dev/midscene), [Modern.js](https://github.com/web-infra-dev/modern.js), [Garfish](https://github.com/web-infra-dev/garfish), and more.
+This is the working group of the ByteDance web infrastructure team responsible for creating [Rspack](https://github.com/web-infra-dev/rspack), [Rsbuild](https://github.com/web-infra-dev/rsbuild), [Rspress](https://github.com/web-infra-dev/rspress), [Rslib](https://github.com/web-infra-dev/rslib), [Rsdoctor](https://github.com/web-infra-dev/rsdoctor), [Rstest](https://github.com/web-infra-dev/rstest), [Midscene](https://github.com/web-infra-dev/midscene), [Modern.js](https://github.com/web-infra-dev/modern.js), [Garfish](https://github.com/web-infra-dev/garfish), and more.
 
 We created this channel with two purposes:
 
